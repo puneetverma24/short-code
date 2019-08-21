@@ -1,0 +1,17 @@
+{}  -->  object
+[]  -->  Array
+
+Object Creation in php
+
+$myObj=new stdClass();
+$myObj->name = "John";
+$myObj->age = 30;
+$myObj->city = "New York";
+
+echo $myJSON;
+
+
+
+
+Json format 
+
